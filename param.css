@@ -1,0 +1,17 @@
+.img {
+    float: left;
+    width:  150px;
+    height: 273px;
+    object-fit: cover;
+    vertical-align: top;
+    text-align: center;
+}
+
+.tableRacm{
+    width:33%;
+    vertical-align: top;
+}
+
+.detail{
+    align-items: flex-end;
+}
