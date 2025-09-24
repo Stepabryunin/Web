@@ -15,3 +15,10 @@
 .detail{
     align-items: flex-end;
 }
+
+.baseTable{
+    border: 0;
+    width: 900px; 
+    margin: 0 auto; 
+    /* border-collapse: collapse;  */
+}  
