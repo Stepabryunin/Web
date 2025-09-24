@@ -20,5 +20,9 @@
     border: 0;
     width: 900px; 
     margin: 0 auto; 
-    /* border-collapse: collapse;  */
 }  
+
+.HeaderText{
+    vertical-align: top;
+    text-align: center;
+}
